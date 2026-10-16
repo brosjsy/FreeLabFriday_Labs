@@ -1,5 +1,7 @@
 ![image](/FilesForLabs/images/blueantisyphon.png)
 
+> **Fork note:** the SOC Analyst Labs course has been reorganized into reading order (numbered pages, `images/` and `files/` folders per section). Start at [SocAnalystLabs/README.md](./SocAnalystLabs/README.md).
+
 # Welcome to the Free Lab Friday Lab Platform!
 
 ### Need 1 lab?? Maybe 2???? Well we've got 200+ so go crazy!

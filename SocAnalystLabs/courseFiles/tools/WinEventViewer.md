@@ -1,4 +1,4 @@
-![image](/FilesForLabs/images/blueantisyphon.png)
+![image](../../../FilesForLabs/images/blueantisyphon.png)
 
 # Windows Event Viewer
 
@@ -59,7 +59,7 @@ Advanced Features
 
 
 ---
-[Back to the Section](/SocAnalystLabs/courseFiles/Section_01-logAnalysis_Basics/logAnalysis_basics.md)
+[Back to the Section](../Section_01-logAnalysis_Basics/01-logAnalysis_basics.md)
 
 
 > Created By Turcu Știolică Alexandru - Black Hills Information Security

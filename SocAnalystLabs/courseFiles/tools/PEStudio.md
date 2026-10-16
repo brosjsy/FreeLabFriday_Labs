@@ -111,6 +111,6 @@ This allows integration with analysis pipelines or sandbox environments.
 
 
 ---
-[Back to the Section](/courseFiles/Section_11-malwareForensics/malwareForensics.md)
+[Back to the Section](../Section_11-malwareForensics/01-malwareForensics.md)
 
 

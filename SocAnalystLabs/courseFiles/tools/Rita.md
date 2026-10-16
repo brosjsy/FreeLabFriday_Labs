@@ -111,4 +111,4 @@ This command will open a menu that should look similar to the one below:
 ![](./attachments/rita_search_help.png)
 
 ---
-[Back to the section](/courseFiles/Section_05-networkingAndTelemetry/networkingAndTelemetry.md)
+[Back to the section](../Section_05-networkingAndTelemetry/01-networkingAndTelemetry.md)

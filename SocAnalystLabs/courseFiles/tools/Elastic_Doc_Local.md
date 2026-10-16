@@ -1,4 +1,4 @@
-![image](/FilesForLabs/images/blueantisyphon.png)
+![image](../../../FilesForLabs/images/blueantisyphon.png)
 
 # Elastic Local Documentation
 
@@ -170,10 +170,10 @@ sudo journalctl -u kibana | grep verification
 - Sign in into elastic and that's it! user: `elastic` , pass: `<your_saved_password>`
 <img width="473" height="509" alt="image" src="https://github.com/user-attachments/assets/69809bd7-4de6-4682-b8c3-c93b653235f8" />
 
-- As a continuation, take onto the hands-on lab for [Elastic](/SocAnalystLabs/courseFiles/Section_02-toolsAndPlatforms/elasticLabLocal.md)
+- As a continuation, take onto the hands-on lab for [Elastic](../Section_02-toolsAndPlatforms/05-elasticLabLocal.md)
 
 ---
-[Back to the Section](/SocAnalystLabs/courseFiles/Section_02-toolsAndPlatforms/toolsAndPlatforms.md)
+[Back to the Section](../Section_02-toolsAndPlatforms/01-toolsAndPlatforms.md)
 
 
 ---

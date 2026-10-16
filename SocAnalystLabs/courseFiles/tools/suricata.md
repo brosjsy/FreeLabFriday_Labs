@@ -191,4 +191,4 @@ Sources:
 - [Emerging Threats Rules](https://rules.emergingthreats.net/)
  
 ---
-[Back to the section](/courseFiles/Section_05-networkingAndTelemetry/networkingAndTelemetry.md)
+[Back to the section](../Section_05-networkingAndTelemetry/01-networkingAndTelemetry.md)

@@ -1,4 +1,4 @@
-![image](/FilesForLabs/images/blueantisyphon.png)
+![image](../../../FilesForLabs/images/blueantisyphon.png)
 
 # Dionaea Documentation
 
@@ -105,10 +105,10 @@ sudo nano /usr/local/etc/dionaea/dionaea.cfg
  - Delete anything emu related from modules and processors, should have 4 references from the start
 
 ## I know that was a lot... Now you can move over to the lab!
-### [Dionaea Lab](/SocAnalystLabs/courseFiles/Section_08-deceptionSystems/dionaeaLab.md)
+### [Dionaea Lab](../Section_08-deceptionSystems/02-dionaeaLab.md)
 
 ---
-[Back to the Section](/SocAnalystLabs/courseFiles/Section_08-deceptionSystems/deceptionSystems.md)
+[Back to the Section](../Section_08-deceptionSystems/01-deceptionSystems.md)
 
 ---
 

@@ -143,4 +143,4 @@ Key elements:
 - [snorpy](https://snorpy.cyb3rs3c.net) -A Web Based Snort Rule Creator
 
 ---
-[Back to the section](/courseFiles/Section_05-networkingAndTelemetry/networkingAndTelemetry.md)
+[Back to the section](../Section_05-networkingAndTelemetry/01-networkingAndTelemetry.md)

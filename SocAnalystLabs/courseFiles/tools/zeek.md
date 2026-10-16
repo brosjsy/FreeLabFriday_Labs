@@ -178,4 +178,4 @@ Zeek can emit many more logs (SMB, RDP, QUIC, DHCP, NTP, etc.). Enable what you 
 
 
 ---
-[Back to the section](/courseFiles/Section_05-networkingAndTelemetry/networkingAndTelemetry.md)
+[Back to the section](../Section_05-networkingAndTelemetry/01-networkingAndTelemetry.md)

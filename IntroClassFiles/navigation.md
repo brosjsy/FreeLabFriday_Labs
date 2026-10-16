@@ -37,7 +37,7 @@
   - [Scapy](/IntroClassFiles/Tools/IntroClass/scapy.md)
   - [Hayabusa](/IntroClassFiles/Tools/IntroClass/hayabusa.md)
   - [RITA2](/IntroClassFiles/Tools/IntroClass/rita_Part2.md)
-  - [Email Analysis](/SOCAnalystLabs/courseFiles/Section_10-emailFundamentals/phishing_email_lab.md)
+  - [Email Analysis](../SocAnalystLabs/courseFiles/Section_10-emailFundamentals/02-phishing_email_lab.md)
   - [ACHunter2](/IntroClassFiles/Tools/IntroClass/ADHD/RITA_ADHD/RITA.md)
 <!-- - [RITA And AC Hunter](Tools/IntroClass/RITA/RITA.md) -->
 <!--  - [Temp](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/temp.md) -->
@@ -78,7 +78,7 @@
 
 ### Phishing / Social-engineering  
   - [Canarytokens](Tools/IntroClass/ADHD/canarytokens/Canarytokens.md)
-  - [Canary Token Cloner](/SOC_Analyst_Labs/blob/main/courseFiles/Section_08-deceptionSystems/CanaryToken_lab/CanaryToken_lab.md)
+  - [Canary Token Cloner](../SocAnalystLabs/courseFiles/Section_08-deceptionSystems/04-CanaryToken_lab.md)
   - [GoPhish](Tools/IntroClass/ADHD/GoPhish.md)
   - [Mailoney](Tools/IntroClass/ADHD/Mailoney.md)
   

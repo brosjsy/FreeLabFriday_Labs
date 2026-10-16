@@ -1,4 +1,4 @@
-![image](/FilesForLabs/images/blueantisyphon.png)
+![image](../../../FilesForLabs/images/blueantisyphon.png)
 
 # Elastic Cloud Documentation
 
@@ -125,11 +125,11 @@ cd C:\Users\Administrator\Downloads\Sysmon\
 
 ## That's it!
 
-As a continuation, take onto the hands-on lab for [Elastic](/SocAnalystLabs/courseFiles/Section_02-toolsAndPlatforms/elasticLabCloud.md)
+As a continuation, take onto the hands-on lab for [Elastic](../Section_02-toolsAndPlatforms/04-elasticLabCloud.md)
 
 
 ---
-[Back to the Section](/SocAnalystLabs/courseFiles/Section_02-toolsAndPlatforms/toolsAndPlatforms.md)
+[Back to the Section](../Section_02-toolsAndPlatforms/01-toolsAndPlatforms.md)
 
 
 ---

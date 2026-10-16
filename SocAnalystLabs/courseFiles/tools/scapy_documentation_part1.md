@@ -1,8 +1,8 @@
 # Scapy - part 1
 
 - For part 2, check out [scapy_documentation_part2.md](./scapy_documentation_part2.md)
-- For lab, check out [scapy_lab.md](/SocAnalystLabs/courseFiles/Section_04-socScripting/scapy_lab.md)
-- For lab solution, check out [scapy_lab_solution.md](/SocAnalystLabs/courseFiles/Section_04-socScripting/scapy_lab_solution.md)
+- For lab, check out [scapy_lab.md](../Section_04-socScripting/08-scapy_lab.md)
+- For lab solution, check out [scapy_lab_solution.md](../Section_04-socScripting/09-scapy_lab_solution.md)
 
 # Introduction & Setup
 
@@ -324,4 +324,4 @@ Also check out [this official Scapy documentation](https://scapy.readthedocs.io/
 
 
 ---
-[Back to the Section](/SocAnalystLabs/courseFiles/Section_04-socScripting/socScripting.md)
+[Back to the Section](../Section_04-socScripting/01-socScripting.md)

@@ -1,4 +1,4 @@
-![image](/FilesForLabs/images/blueantisyphon.png)
+![image](../../../FilesForLabs/images/blueantisyphon.png)
 
 # Volatility Documentation
 
@@ -212,10 +212,10 @@ python3 vol.py -f /path/to/memdump $SYMS linux.pslist.PsList
 ### Notes
 Volatility does not provide the ability to acquire memory, for that best use scenario is [LiME](https://github.com/504ensicsLabs/LiME), and for windows [WinPmem](https://github.com/Velocidex/WinPmem) from Velociraptor
 
-# Try our [Volatility Lab](/SocAnalystLabs/courseFiles/Section_09-forensicsFundamentals/volatilityLab1.md)
+# Try our [Volatility Lab](../Section_09-forensicsFundamentals/02-volatilityLab1.md)
 
 ---
-[Back to the section](/SocAnalystLabs/courseFiles/Section_09-forensicsFundamentals/forensicsFundamentals.md)
+[Back to the section](../Section_09-forensicsFundamentals/01-forensicsFundamentals.md)
 
 ---
 

@@ -1,4 +1,4 @@
-![image](/FilesForLabs/images/blueantisyphon.png)
+![image](../../../FilesForLabs/images/blueantisyphon.png)
 
 # Autopsy Documentation
 
@@ -60,7 +60,7 @@ sudo snap install autopsy
 
 
 ---
-[Back to the section](/SocAnalystLabs/courseFiles/Section_09-forensicsFundamentals/forensicsFundamentals.md)
+[Back to the section](../Section_09-forensicsFundamentals/01-forensicsFundamentals.md)
 
 ---
 
