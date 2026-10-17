@@ -20,6 +20,5 @@ Work through these in order:
 
 ## Folders
 
-- [`attachments/`](./attachments/) - the multi-part lab listed above
 - [`files/`](./files/) - lab downloads: [`email01.eml`](./files/email01.eml), [`email02.eml`](./files/email02.eml), [`email03.eml`](./files/email03.eml), [`email04.eml`](./files/email04.eml), [`email05.eml`](./files/email05.eml), [`email06.eml`](./files/email06.eml), [`email07.eml`](./files/email07.eml), [`email08.eml`](./files/email08.eml), [`fake_ceo_request.eml`](./files/fake_ceo_request.eml)
 - [`images/`](./images/) - screenshots used by the pages above
